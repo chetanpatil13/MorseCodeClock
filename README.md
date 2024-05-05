@@ -1,6 +1,6 @@
 # Morse Code Clock
 
-This fun-to-code project which display real time in Morse Code.
+This fun-to-code project which displays real time in Morse Code.
 
 **Numbers in Morse Code:**
 
